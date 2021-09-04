@@ -1,17 +1,17 @@
-<h2 align="centre">🎵 VEEZ MUSIC BOT</h2>
+<h2 align="centre">🎵 RAKA MUSIC</h2>
 
-### Veez Music is a telegram bot project that's allow you to play music on telegram voice chat group.
+### RAKAMUSIK ADALAH BOT MUSIK UNTUK TELEGRAM BUAT GRUP LU PADA NGENTOT!!.
 
-<p align="center"><a href="https://t.me/VeezMusicBot"><img src="https://telegra.ph/file/8bf3d62837cb59c3f8e7f.png" width="300"></a></p>
+<p align="center"><a href="https://t.me/ImTheLastKingMs"><img src="https://telegra.ph/file/54a08796c7dd464a05a59.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://app.codacy.com/gh/levina-lab/VeezMusic/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
-    <a href="https://github.com/levina-lab/VeezMusic"> <img src="https://img.shields.io/github/repo-size/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/commits/main"> <img src="https://img.shields.io/github/last-commit/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/issues"> <img src="https://img.shields.io/github/issues/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/levina-lab/VeezMusic/network/members"> <img src="https://img.shields.io/github/forks/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/levina-lab/VeezMusic/network/members"> <img src="https://img.shields.io/github/stars/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Raka-Music/RakaMusic/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
+    <a href="https://app.codacy.com/gh/Raka-Music/Rakamusik/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=red&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
+    <a href="https://github.com/Raka-Music/RakaMusic"> <img src="https://img.shields.io/github/repo-size/Raka-Music/Rakamusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Raka-Music/RakaMusic/commits/main"> <img src="https://img.shields.io/github/last-commit/Raka-Music/RakaMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Raka-Music/RakaMusic/issues"> <img src="https://img.shields.io/github/issues/Raka-lab/Music?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
+    <a href="https://github.com/Raka-Music/RakaMusic/network/members"> <img src="https://img.shields.io/github/forks/Raka-lab/Music?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
+    <a href="https://github.com/Raka-Music/RakaMusic/network/members"> <img src="https://img.shields.io/github/stars/Raka-lab/Music?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
 </p>
 
 <h3>Requirements 📝</h3>
@@ -24,12 +24,12 @@
 
 🧪 Get STRING_SESSION from below:
 
-TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py)
+TAP NGENTOT: [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py)
 
 🎖 History
 - [![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/levina-lab/VeezMusic)
 
-## Features 🔮
+## FITUR BOT MUSIK TERPATEN RAKA MUSIK 🔮
 
 - Thumbnail Support
 - Playlist Support
@@ -47,7 +47,7 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 - Group Tools (ban/unban/mute/unmute)
 - Block / Unblock (restrict user for using your bot)
 
-## Commands 🛠
+## CARANYA NIHH NGENTOT-Commands 🛠
 
 - `/play <song name>` - play song you requested
 - `/playlist` - Show now playing list
@@ -57,7 +57,7 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 - `/lyric <song name>` - lyrics scrapper
 - `/vk <song name>` - generate song without download
 
-#### Admins Only 👷‍♂️
+#### khusus Admin Ganteng 👷‍♂️
 - `/player` - open music player settings panel
 - `/pause` - pause song play
 - `/resume` - resume song play
@@ -74,13 +74,13 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 - `/deauth` - deauthorized people to access the admin commands
 - `/control` - open the music player control panel
 
-### Sudo User 🧙‍♂️
+### SUDO USER 🧙‍♂️
 - `/stats` - see the bot statistic
 - `/pmpermit on | off` turn on/off the assistant pmpermit
 - `/userbotleaveall` - order the assistant to leave all groups
 - `/gcast` - send a broadcast message from the assistant
 
-### Owner Only 👨🏻‍✈️
+### KHUSUS Owner 👨🏻‍✈️
 - `/broadcast` - send a broadcast message from the bot
 - `/block` - block people for using your bot
 - `/unblock` - unblock people you blocked for using your bot
@@ -92,13 +92,13 @@ TAP THIS: [![GenerateString](https://img.shields.io/badge/repl.it-generateString
 
 ## 🔎 Support Inline Search
 
-## Heroku Deployment 💜
+## Heroku RAKA Deployment 💜
 The easy way to host this bot, deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/levina-lab/veezmusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAKA-Music/Rakamusic)
 
 ## Railway Deployment 🚄
-For deployment on railway you can see the full of [Necessary Variables Here](https://github.com/levina-lab/VeezMusic/blob/main/example.env), make sure you fill all of it.
+For deployment on railway you can see the full of [Necessary Variables Here](https://github.com/Raka-Music-lab/RakaMusic/blob/main/example.env), make sure you fill all of it.
 
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/levina-lab/VeezMusic&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,GROUP_SUPPORT,ASSISTANT_NAME,OWNER_NAME,OWNER_ID,DATABASE_URL,LOG_CHANNEL,BROADCAST_AS_COPY,BG_IMAGE,UPDATES_CHANNEL,API_ID,API_HASH,PMPERMIT,SUDO_USERS,DURATION_LIMIT,THUMB_IMG)
 
@@ -128,4 +128,4 @@ For deployment on railway you can see the full of [Necessary Variables Here](htt
 - [TeamDaisyX](https://github.com/TeamDaisyX) for base code
 
 ### Support & Updates 🎑
-<a href="https://t.me/VeezSupportGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/levinachannel"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Ms_Aliansi"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/RaxsStory"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
